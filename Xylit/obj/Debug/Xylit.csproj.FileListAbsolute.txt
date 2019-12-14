@@ -1,0 +1,30 @@
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\Xylit\Xylit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\Xylit\Xylit\bin\Debug\Xylit.exe
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\Xylit\Xylit\bin\Debug\Xylit.pdb
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\Xylit\Xylit\obj\Debug\Xylit.exe
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\Xylit\Xylit\obj\Debug\Xylit.pdb
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\XylitExp\Xylit\obj\Debug\Xylit.exe
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\XylitExp\Xylit\obj\Debug\Xylit.pdb
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\XylitExp\Xylit\bin\Debug\Xylit.exe
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\XylitExp\Xylit\bin\Debug\Xylit.pdb
+C:\Documents and Settings\Marat\My Documents\Visual Studio 2008\Projects\XylitExp\Xylit\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents\Programming\C#\PROJECTS\Xylit\XylitExp17\Backup\Xylit\obj\Debug\Xylit.exe
+G:\Documents\Programming\C#\PROJECTS\Xylit\XylitExp17\Backup\Xylit\obj\Debug\Xylit.pdb
+G:\Documents\Programming\C#\PROJECTS\Xylit\XylitExp17\Backup\Xylit\bin\Debug\Xylit.exe
+G:\Documents\Programming\C#\PROJECTS\Xylit\XylitExp17\Backup\Xylit\bin\Debug\Xylit.pdb
+G:\Documents\Programming\C#\PROJECTS\Xylit\XylitExp17\Backup\Xylit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marat\Desktop\XylitAlpha\Xylit\obj\Debug\Xylit.exe
+C:\Documents and Settings\Marat\Desktop\XylitAlpha\Xylit\obj\Debug\Xylit.pdb
+C:\Documents and Settings\Marat\Desktop\XylitAlpha\Xylit\bin\Debug\Xylit.exe
+C:\Documents and Settings\Marat\Desktop\XylitAlpha\Xylit\bin\Debug\Xylit.pdb
+C:\Documents and Settings\Marat\Desktop\XylitAlpha\Xylit\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\bin\Debug\Xylit.exe
+F:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\bin\Debug\Xylit.pdb
+F:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\obj\Debug\Xylit.exe
+F:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\obj\Debug\Xylit.pdb
+H:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\obj\Debug\Xylit.exe
+H:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\obj\Debug\Xylit.pdb
+H:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\bin\Debug\Xylit.exe
+H:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\bin\Debug\Xylit.pdb
+H:\Documents\Programming\C#\PROJECTS\Xylit\XylitAlpha\Xylit\obj\Debug\ResolveAssemblyReference.cache

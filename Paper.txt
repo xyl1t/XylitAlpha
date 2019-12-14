@@ -1,0 +1,23 @@
+
+.:| XYLIT |:.
+
+Future Plans:
+ - ProposedScreen is an array...
+   - It's an array until you call AcceptChanges()
+ - Better text warping in windows.
+ - DropDown List
+ - Level Selector
+ - Tutorial
+ 
+
+
+
+
+
+
+   _
+  /
+ |
+<
+ |
+  \_

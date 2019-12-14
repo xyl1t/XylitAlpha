@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Map>
+  <Config>
+    <Path MapPath="..\Resources\Map.map"/>
+    <Coordinates X="0" Y="0"/>
+    <DefaultColors ForeColor="White" BackColor="Black"/>
+  </Config>
+
+  <Tiles>
+    <!-- "·" Air1 -->
+    <Tile character="·">
+      <Name>Air1</Name>
+      <CheckColor>
+        <R>255</R>
+        <G>255</G>
+        <B>255</B>
+      </CheckColor>
+      <TileColor ForeColor="Blue" BackColor="None"/>
+      <TileType Type="Air"/>
+    </Tile>
+
+    <!-- "·" Air2 -->
+    <Tile character="·">
+      <Name>Air2</Name>
+      <CheckColor>
+        <R>128</R>
+        <G>128</G>
+        <B>128</B>
+      </CheckColor>
+      <TileColor ForeColor="DarkCyan" BackColor="None"/>
+      <TileType Type="Air"/>
+    </Tile>
+
+    <!-- "■" Wall -->
+    <Tile character="■">
+      <Name>Wall</Name>
+      <CheckColor>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="Gray" BackColor="DarkGray"/>
+      <TileType Type="Fixed"/>
+    </Tile>
+
+    <!-- "@" Player -->
+    <Tile character="@">
+      <Name>Player</Name>
+      <CheckColor>
+        <R>0</R>
+        <G>255</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="Green" BackColor="DarkGreen"/>
+      <TileType Type="Player"/>
+    </Tile>
+
+    <!-- "☼" Player -->
+    <Tile character="☼">
+      <Name>Goal</Name>
+      <CheckColor>
+        <R>255</R>
+        <G>0</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="Red" BackColor="DarkRed"/>
+      <TileType Type="Goal"/>
+    </Tile>
+
+    <!-- "■" Gold -->
+    <Tile character="■">
+      <Name>Gold</Name>
+      <CheckColor>
+        <R>255</R>
+        <G>255</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="Yellow" BackColor="None"/>
+      <TileType Type="Coin"/>
+    </Tile>
+
+    <!-- "%" Closed Door -->
+    <Tile character="%">
+      <Name>ClosedDoor</Name>
+      <CheckColor>
+        <R>128</R>
+        <G>64</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="DarkYellow" BackColor="None"/>
+      <TileType Type="ClosedDoor"/>
+    </Tile>
+    
+    <!-- "/" Opened Door -->
+    <Tile character="/">
+      <Name>OpenedDoor</Name>
+      <CheckColor>
+        <R>160</R>
+        <G>64</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="DarkYellow" BackColor="None"/>
+      <TileType Type="OpenedDoor"/>
+    </Tile>
+    
+    <!-- "@" Enemy -->
+    <Tile character="@">
+      <Name>Enemy</Name>
+      <CheckColor>
+        <R>255</R>
+        <G>64</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="Red" BackColor="DarkRed"/>
+      <TileType Type="Enemy"/>
+    </Tile>
+
+    <!-- "▲" Emerald -->
+    <Tile character="▲">
+      <Name>Emerald</Name>
+      <CheckColor>
+        <R>128</R>
+        <G>255</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="Green" BackColor="DarkGreen"/>
+      <TileType Type="SuperCoin"/>
+    </Tile>
+
+    <!-- "@" Super Enemy -->
+    <Tile character="@">
+      <Name>SuperEnemy</Name>
+      <CheckColor>
+        <R>0</R>
+        <G>0</G>
+        <B>255</B>
+      </CheckColor>
+      <TileColor ForeColor="Blue" BackColor="None"/>
+      <TileType Type="Enemy"/>
+    </Tile>
+
+    <!-- "♥" Health -->
+    <Tile character="♥">
+      <Name>Health</Name>
+      <CheckColor>
+        <R>255</R>
+        <G>16</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="Red" BackColor="None"/>
+      <TileType Type="Health"/>
+    </Tile>
+
+    <!-- "#" Barrel -->
+    <Tile character="#">
+      <Name>Barrel</Name>
+      <CheckColor>
+        <R>200</R>
+        <G>128</G>
+        <B>0</B>
+      </CheckColor>
+      <TileColor ForeColor="DarkYellow" BackColor="DarkRed"/>
+      <TileType Type="Barrel"/>
+    </Tile>
+    
+    <!-- "╓" Pistol -->
+    <Tile character="╓">
+      <Name>Pistol</Name>
+      <CheckColor>
+        <R>64</R>
+        <G>64</G>
+        <B>64</B>
+      </CheckColor>
+      <TileColor ForeColor="DarkGray" BackColor="Black"/>
+      <TileType Type="Pistol"/>
+    </Tile>
+
+    <!-- "░" Amunition -->
+    <Tile character="░">
+      <Name>Amunition</Name>
+      <CheckColor>
+        <R>0</R>
+        <G>128</G>
+        <B>255</B>
+      </CheckColor>
+      <TileColor ForeColor="DarkGray" BackColor="Black"/>
+      <TileType Type="Amunition"/>
+    </Tile>
+    
+	<!-- "*" Random -->
+    <Tile character="*">
+      <Name>Random</Name>
+      <CheckColor>
+        <R>1</R>
+        <G>2</G>
+        <B>3</B>
+      </CheckColor>
+      <TileColor ForeColor="Cyan" BackColor="None"/>
+      <TileType Type="Random"/>
+	  
+    </Tile>
+  </Tiles>
+</Map>

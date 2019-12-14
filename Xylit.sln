@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xylit", "Xylit\Xylit.csproj", "{6E94A5D7-CEB3-4865-8077-E9340122A23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E94A5D7-CEB3-4865-8077-E9340122A23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E94A5D7-CEB3-4865-8077-E9340122A23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E94A5D7-CEB3-4865-8077-E9340122A23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E94A5D7-CEB3-4865-8077-E9340122A23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
